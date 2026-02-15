@@ -1,3 +1,6 @@
+# ⚠️ BIG DISCLAIMER
+> **KINDLY DISQUALIFY ME!** My model is heavily biased toward one class: **Background** (HEHE just BackGround).
+
 # Fine-Grained Segmentation for High-Resolution Scenes
 
 
