@@ -1,7 +1,5 @@
 # Fine-Grained Segmentation for High-Resolution Scenes
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Segmentation Models](https://img.shields.io/badge/SMP-Python-blue)](https://github.com/qubvel/segmentation_models.pytorch)
-[![Team](https://img.shields.io/badge/Team-K2-green)](#)
+
 
 This repository contains the implementation of a state-of-the-art fine-grained segmentation pipeline designed for high-resolution offroad scene understanding (544×960). This project was developed as part of the Datathon Machine Learning competition by **Team K2**.
 
@@ -66,7 +64,7 @@ Training results (typical):
 
 The pre-trained model weights (`model_best.pth`) can be downloaded from the link below:
 
-> **[Download Model Weights (Google Drive)](INSERT_DRIVE_LINK_HERE)**
+> **[Download Model Weights (Google Drive)](https://drive.google.com/file/d/1I8m9vdb-rRTquAwWCGKiH0CXzvj4uByO/view?usp=sharing)**
 
 *(Place the downloaded `.pth` file in the `checkpoints/` directory to run evaluation)*
 
